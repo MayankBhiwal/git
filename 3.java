@@ -1,6 +1,1 @@
-C
-C
-C
-
-A
-This is change made on the local machine to 
+This is change made on the local machine to test on the Google VM.
