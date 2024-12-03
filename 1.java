@@ -1,9 +1,1 @@
-B
-B
-B
-B
-B
-B
-B
-ii
-This is in the master branch.
+These are the changes made on the local Git
