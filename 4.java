@@ -1,1 +1,1 @@
-This file from the online Git.
+This file is from the online Git.
